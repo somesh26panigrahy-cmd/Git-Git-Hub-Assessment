@@ -21,5 +21,3 @@ city = "Chennai"
 print(city)
 
 print("correct feature added")
-
-print ("testing revert featur")
